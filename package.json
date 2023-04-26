@@ -1,7 +1,7 @@
 {
   "name": "visual-studio-darker",
   "displayName": "Visual Studio Darker",
-  "description": "A darker version of the famous 'Visual Studio Dark' theme for Visual Studio Code with color variants. ",
+  "description": "A darker version of the famous 'Visual Studio Dark' theme for Visual Studio Code with color variants.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"

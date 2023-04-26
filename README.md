@@ -1,16 +1,13 @@
 # Visual Studio Darker Theme
 
-## Working with Markdown
+> A darker version of the famous 'Visual Studio Dark' theme for Visual Studio Code with color variants.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Screenshots
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<img src="/media/1.png" alt="Screenshot 1"/>
+<img src="/media/2.png" alt="Screenshot 2"/>
+<img src="/media/3.png" alt="Screenshot 3"/>
 
-## For more information
+> Font used in Screenshots: **Cascadia Code**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Enjoy!** :metal:
