@@ -20,6 +20,11 @@
         "label": "Visual Studio Darkerer",
         "uiTheme": "vs-dark",
         "path": "./themes/visual-studio-darkerer-color-theme.json"
+      },
+      {
+        "label": "Visual Studio Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/visual-studio-black-color-theme.json"
       }
     ]
   }
